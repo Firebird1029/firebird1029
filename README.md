@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! ![wave](https://raw.githubusercontent.com/firebird1029/firebird1029/master/wave.gif)
 
 <!--
 **Firebird1029/firebird1029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
